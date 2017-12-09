@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Z-theme
+Comment=Cinnamon theme by Praveen
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Z-theme
+MetacityTheme=Z-theme
+CursorTheme=default
